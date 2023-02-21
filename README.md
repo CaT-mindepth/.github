@@ -7,3 +7,8 @@
   - Program synthesis-based code generator for each action to low-level P4 code (Tofino backend) or FPGA output (Menshen backend): https://github.com/CaT-mindepth/minDepthCompiler
   - Augmented Menshen FPGA code with Banzai if-else-raw stateful ALU support: https://github.com/CaT-mindepth/new_fpga_cat
   
+
+
+### Contact
+
+For inquiries about artifacts, please contact the first three authors listed on the paper. Thank you.
