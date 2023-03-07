@@ -12,3 +12,8 @@
 ### Contact
 
 For inquiries about artifacts, please contact the first three authors listed on the paper. Thank you.
+
+
+### License
+
+All our code are available under the MIT license. Code reused from the Domino and p4c projects are available under their corresponding licenses (Apache license for P4C).
